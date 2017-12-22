@@ -14,6 +14,7 @@ EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		OptionsCalculator\OptionsCalculator\OptionsCalculator.projitems*{5cf8debe-818f-4a89-8801-c335411e82fb}*SharedItemsImports = 4
+		OptionsCalculator\OptionsCalculator\OptionsCalculator.projitems*{663a2623-9506-41b9-b373-8adc3030f0e3}*SharedItemsImports = 4
 		OptionsCalculator\OptionsCalculator\OptionsCalculator.projitems*{ab491c51-47a8-41f2-a27f-98e433cbf831}*SharedItemsImports = 13
 		OptionsCalculator\OptionsCalculator\OptionsCalculator.projitems*{f2f494f3-71e4-41f9-bed8-b8a4b1fd1ef8}*SharedItemsImports = 4
 	EndGlobalSection
